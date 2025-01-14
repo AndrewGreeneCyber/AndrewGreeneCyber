@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Audit</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [The Securty Audit](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Cybersecurity Incident Reports</b>
   - [Analysis of network attack](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Analyzing Network Structure and security](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -18,26 +18,35 @@
   - [Change directory permissions](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Applying filters to SQL queries</b>
   - [Retrieve after hours failed login attempts](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Retrieve after hours failed login attempts](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Retrieve login attempts on specific dates](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Retrieve login attempts outside of Mexico](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Retrieve employees in Marketng](https://github.com/joshmadakor1/AD_PS)
+  - [Retrieve employees in Finance or Sales](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Retrieve all employees not in IT](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - <b>Risk Management</b>
+  - [Classifying the assets connected to a home network](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Scoring risks based on their likelihood and severity](https://github.com/joshmadakor1/Sentinel-Lab)
+  - <b>Analyzing a data leak</b>
+  - [Data leak worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b>Managing Access Controls</b>
+  - [Access controls worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b>Assessing Vulnerabilities</b>
+  - [Vulnerability Assessment Report](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b>Threat Modeling</b>
+  - [PASTA worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b>Incident Handler's Journal</b>
+  - [Entry 1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Entry 2](https://github.com/joshmadakor1/AD_PS)
+  - [Entry 3](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Entry 4](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - <b>Using a Playbook</b>
+  - [Using a playbook to respond to a phishing incident](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b>Using Splunk</b>
+  - [Performing a query with Splunk](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b>Using Python</b>
+  - [Updating a file through a Python Algorithm](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
