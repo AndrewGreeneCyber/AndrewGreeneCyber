@@ -17,7 +17,7 @@
   - [Change file permissions on a hidden file](https://github.com/joshmadakor1/Key-Logger-With-Email)
   - [Change directory permissions](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Applying filters to SQL queries</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Retrieve after hours failed login attempts](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
