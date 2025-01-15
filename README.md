@@ -29,7 +29,7 @@
  - <b>Threat Modeling</b>
    - [PASTA worksheet](https://github.com/AndrewGreeneCyber/Threat-Modeling/blob/main/README.md)
 - <b>Incident Handler's Journal</b>
-   - [Entries 1-4](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Entries 1-4](https://github.com/AndrewGreeneCyber/Journal/blob/main/README.md)
 - <b>Using a Playbook</b>
    - [Using a playbook to respond to a phishing incident](https://github.com/joshmadakor1/Algorithms-Practice)
  - <b>Using Splunk</b>
