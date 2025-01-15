@@ -16,13 +16,7 @@
   - [Change file permissions on a hidden file](https://github.com/AndrewGreeneCyber/Hidden-Files/blob/main/README.md)
   - [Change directory permissions](https://github.com/AndrewGreeneCyber/Changing-Directory-Permissions/blob/main/README.md)
 - <b>Applying filters to SQL queries</b>
-  - [Retrieve after hours failed login attempts](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Retrieve after hours failed login attempts](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Retrieve login attempts on specific dates](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Retrieve login attempts outside of Mexico](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Retrieve employees in Marketng](https://github.com/joshmadakor1/AD_PS)
-  - [Retrieve employees in Finance or Sales](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [Retrieve all employees not in IT](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Retrieving login attempts](https://github.com/AndrewGreeneCyber/Retrieving-login-attemps/blob/main/README.md)
   - <b>Risk Management</b>
   - [Classifying the assets connected to a home network](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Scoring risks based on their likelihood and severity](https://github.com/joshmadakor1/Sentinel-Lab)
