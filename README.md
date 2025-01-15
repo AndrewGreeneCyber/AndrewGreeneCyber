@@ -13,7 +13,7 @@
 - <b>Using Linux commands to manage file permissions</b>
   - [Check file and directory details](https://github.com/AndrewGreeneCyber/Directory-Details-and-Permission-strings-/blob/main/README.md)
   - [Change file permissions](https://github.com/AndrewGreeneCyber/Change-Permissions/blob/main/README.md)
-  - [Change file permissions on a hidden file](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Change file permissions on a hidden file](https://github.com/AndrewGreeneCyber/Hidden-Files/blob/main/README.md)
   - [Change directory permissions](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Applying filters to SQL queries</b>
   - [Retrieve after hours failed login attempts](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
