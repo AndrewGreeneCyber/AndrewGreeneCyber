@@ -29,10 +29,7 @@
   - <b>Threat Modeling</b>
   - [PASTA worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
   - <b>Incident Handler's Journal</b>
-  - [Entry 1](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Entry 2](https://github.com/joshmadakor1/AD_PS)
-  - [Entry 3](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [Entry 4](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Entries 1-4](https://github.com/joshmadakor1/Algorithms-Practice)
   - <b>Using a Playbook</b>
   - [Using a playbook to respond to a phishing incident](https://github.com/joshmadakor1/Algorithms-Practice)
   - <b>Using Splunk</b>
