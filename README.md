@@ -19,7 +19,7 @@
   - [Retrieving login attempts](https://github.com/AndrewGreeneCyber/Retrieving-login-attemps/blob/main/README.md)
  - <b>Risk Management</b>
    - [Classifying the assets connected to a home network](https://github.com/AndrewGreeneCyber/Asset-Classification/blob/main/README.md)
-   - [Scoring risks based on their likelihood and severity](https://github.com/joshmadakor1/Sentinel-Lab)
+   - [Scoring risks based on their likelihood and severity](https://github.com/AndrewGreeneCyber/Scoring-Risks/blob/main/README.md)
  - <b>Analyzing a data leak</b>
    - [Data leak worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
  - <b>Managing Access Controls</b>
