@@ -17,25 +17,25 @@
   - [Change directory permissions](https://github.com/AndrewGreeneCyber/Changing-Directory-Permissions/blob/main/README.md)
 - <b>Applying filters to SQL queries</b>
   - [Retrieving login attempts](https://github.com/AndrewGreeneCyber/Retrieving-login-attemps/blob/main/README.md)
-  - <b>Risk Management</b>
-  - [Classifying the assets connected to a home network](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Scoring risks based on their likelihood and severity](https://github.com/joshmadakor1/Sentinel-Lab)
-  - <b>Analyzing a data leak</b>
-  - [Data leak worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
-  - <b>Managing Access Controls</b>
-  - [Access controls worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
-  - <b>Assessing Vulnerabilities</b>
-  - [Vulnerability Assessment Report](https://github.com/joshmadakor1/Algorithms-Practice)
-  - <b>Threat Modeling</b>
-  - [PASTA worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
-  - <b>Incident Handler's Journal</b>
-  - [Entries 1-4](https://github.com/joshmadakor1/Algorithms-Practice)
-  - <b>Using a Playbook</b>
-  - [Using a playbook to respond to a phishing incident](https://github.com/joshmadakor1/Algorithms-Practice)
-  - <b>Using Splunk</b>
-  - [Performing a query with Splunk](https://github.com/joshmadakor1/Algorithms-Practice)
-  - <b>Using Python</b>
-  - [Updating a file through a Python Algorithm](https://github.com/joshmadakor1/Algorithms-Practice)
+ - <b>Risk Management</b>
+   - [Classifying the assets connected to a home network](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Scoring risks based on their likelihood and severity](https://github.com/joshmadakor1/Sentinel-Lab)
+ - <b>Analyzing a data leak</b>
+   - [Data leak worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
+ - <b>Managing Access Controls</b>
+   - [Access controls worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
+ - <b>Assessing Vulnerabilities</b>
+   - [Vulnerability Assessment Report](https://github.com/joshmadakor1/Algorithms-Practice)
+ - <b>Threat Modeling</b>
+   - [PASTA worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Incident Handler's Journal</b>
+   - [Entries 1-4](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Using a Playbook</b>
+   - [Using a playbook to respond to a phishing incident](https://github.com/joshmadakor1/Algorithms-Practice)
+ - <b>Using Splunk</b>
+   - [Performing a query with Splunk](https://github.com/joshmadakor1/Algorithms-Practice)
+ - <b>Using Python</b>
+   - [Updating a file through a Python Algorithm](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <!--
