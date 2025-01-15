@@ -25,7 +25,7 @@
  - <b>Managing Access Controls</b>
    - [Access controls worksheet](https://github.com/AndrewGreeneCyber/Access-Controls/blob/main/README.md)
  - <b>Assessing Vulnerabilities</b>
-   - [Vulnerability Assessment Report](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Vulnerability Assessment Report](https://github.com/AndrewGreeneCyber/Vulnerabilities/blob/main/README.md)
  - <b>Threat Modeling</b>
    - [PASTA worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Incident Handler's Journal</b>
