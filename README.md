@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Audit</b>
-  - [The Securty Audit](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [The Securty Audit](https://github.com/AndrewGreeneCyber/Security-Audit/blob/main/README.md)
 - <b>Cybersecurity Incident Reports</b>
   - [Analysis of network attack](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Analyzing Network Structure and security](https://github.com/joshmadakor1/Sentinel-Lab)
