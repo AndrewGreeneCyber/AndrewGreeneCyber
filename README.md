@@ -11,7 +11,7 @@
   - [Analysis of Network Hardening (Seurity Risk Assessment Report)](https://github.com/AndrewGreeneCyber/Network-Hardening/blob/main/README.md)
   - [Using the NIST Cybersecurity Framework to respond to a security incident(Incident report analysis)](https://github.com/AndrewGreeneCyber/NIST/blob/main/README.md)
 - <b>Using Linux commands to manage file permissions</b>
-  - [Check file and directory details](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Check file and directory details](https://github.com/AndrewGreeneCyber/Directory-Details-and-Permission-strings-/blob/main/README.md)
   - [Change file permissions](https://github.com/joshmadakor1/DecrypterPOC)
   - [Change file permissions on a hidden file](https://github.com/joshmadakor1/Key-Logger-With-Email)
   - [Change directory permissions](https://github.com/joshmadakor1/Key-Logger-With-Email)
