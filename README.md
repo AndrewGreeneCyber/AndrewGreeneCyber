@@ -33,7 +33,7 @@
 - <b>Using a Playbook</b>
    - [Using a playbook to respond to a phishing incident](https://github.com/AndrewGreeneCyber/Playbook/blob/main/README.md)
  - <b>Using Splunk</b>
-   - [Performing a query with Splunk](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Performing a query with Splunk](https://github.com/AndrewGreeneCyber/Splunk/blob/main/README.md)
  - <b>Using Python</b>
    - [Updating a file through a Python Algorithm](https://github.com/joshmadakor1/Algorithms-Practice)
 
