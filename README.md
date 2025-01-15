@@ -9,7 +9,7 @@
   - [Analysis of network attack](https://github.com/AndrewGreeneCyber/Network-Attack/blob/main/README.md)
   - [Applying OS hardening](https://github.com/AndrewGreeneCyber/Hardening-OS/blob/main/README.md)
   - [Analysis of Network Hardening (Seurity Risk Assessment Report)](https://github.com/AndrewGreeneCyber/Network-Hardening/blob/main/README.md)
-  - [Using the NIST Cybersecurity Framework to respond to a security incident(Incident report analysis)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Using the NIST Cybersecurity Framework to respond to a security incident(Incident report analysis)](https://github.com/AndrewGreeneCyber/NIST/blob/main/README.md)
 - <b>Using Linux commands to manage file permissions</b>
   - [Check file and directory details](https://github.com/joshmadakor1/EncrypterPOC)
   - [Change file permissions](https://github.com/joshmadakor1/DecrypterPOC)
