@@ -23,7 +23,7 @@
  - <b>Analyzing a data leak</b>
    - [Data leak worksheet](https://github.com/AndrewGreeneCyber/Data-Leak/blob/main/README.md)
  - <b>Managing Access Controls</b>
-   - [Access controls worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Access controls worksheet](https://github.com/AndrewGreeneCyber/Access-Controls/blob/main/README.md)
  - <b>Assessing Vulnerabilities</b>
    - [Vulnerability Assessment Report](https://github.com/joshmadakor1/Algorithms-Practice)
  - <b>Threat Modeling</b>
