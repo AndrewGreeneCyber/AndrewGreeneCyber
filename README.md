@@ -27,7 +27,7 @@
  - <b>Assessing Vulnerabilities</b>
    - [Vulnerability Assessment Report](https://github.com/AndrewGreeneCyber/Vulnerabilities/blob/main/README.md)
  - <b>Threat Modeling</b>
-   - [PASTA worksheet](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [PASTA worksheet](https://github.com/AndrewGreeneCyber/Threat-Modeling/blob/main/README.md)
 - <b>Incident Handler's Journal</b>
    - [Entries 1-4](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Using a Playbook</b>
