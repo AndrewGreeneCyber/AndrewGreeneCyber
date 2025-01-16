@@ -35,7 +35,7 @@
  - <b>Using Splunk</b>
    - [Performing a query with Splunk](https://github.com/AndrewGreeneCyber/Splunk/blob/main/README.md)
  - <b>Using Python</b>
-   - [Updating a file through a Python Algorithm](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Updating a file through a Python Algorithm](https://github.com/AndrewGreeneCyber/Python/blob/main/README.md)
 
 
 <!--
